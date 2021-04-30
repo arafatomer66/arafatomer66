@@ -7,16 +7,16 @@
 
 ### Hi there 👋
 
-For almost 2 years working in software industry.Expertise in Js Technologies like Angular, React, Ionic, NodeJs/Express.
+For almost 2 years working in software industry.Expertise in Js Technologies like Angular, React, Ionic, NodeJs/Express , Flutter .
 Worked on PHP Frameworks i.e Laravel and Wordpress.
-Nodejs and Angular are most favourite.
+Nodejs , Flutter and Angular are most favourite.
 Love to design User Interfaces using AdobeXD and Figma .
 Also enjoy doing Local Seo and Digital Marketing .
 Looking for new opportunities,learning new skills and polishing current ones.
 
 ## Key skills
 
-⚡ Html5, CSS3, JavaScript, TypeScript React, Redux, Angular,Ionic
+⚡ Html5, CSS3, JavaScript, TypeScript , Angular, Ionic , Flutter
 
 ⚡ Node, Express / Laravel / MSSQL / MongoDB
 
