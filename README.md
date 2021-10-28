@@ -22,6 +22,10 @@ Looking for new opportunities,learning new skills and polishing current ones.
 
 ⚡ Local SEO Expert , Digital Marketing Specialist
 
+ I’m currently learning React . Also how to create multiple micro service and communication between them .
+
+
+
 <!-- ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
