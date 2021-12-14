@@ -18,7 +18,7 @@ Looking for new opportunities,learning new skills and polishing current ones.
 
 ⚡ Html5, CSS3, JavaScript, TypeScript , Angular, Ionic , Flutter
 
-⚡ Node, Express / Laravel / MSSQL / MongoDB
+⚡ Node, Express / Laravel / MSSQL / MongoDB , Docker
 
 ⚡ Local SEO Expert , Digital Marketing Specialist
 
