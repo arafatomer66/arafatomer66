@@ -23,7 +23,8 @@ Looking for new opportunities,learning new skills and polishing current ones.
 ⚡ Local SEO Expert , Digital Marketing Specialist
 
  I’m currently learning Advance NodeJs with Core level system design Concepts. Also how to create multiple micro service and communication between them.
- Also Exploring Flutter's most advance state management, RiverPod.
+ Exploring Flutter's most advance state management, RiverPod. I also started problem solving in Leetcode, it's never too late , 
+   https://leetcode.com/arafatomer66/
 
 
 
