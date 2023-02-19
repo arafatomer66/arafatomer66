@@ -7,7 +7,7 @@
 
 ### Hello World 👋
 
-For almost 3 years working in software industry.Expertise in Js Technologies like Angular, React, Ionic, NodeJs/Express , Flutter .
+For almost 4 years working in software industry.Expertise in Js Technologies like Angular, React, Ionic, NodeJs/Express , Flutter .
 Worked on PHP Frameworks i.e Laravel and Wordpress.
 Nodejs , Flutter and Angular are most favourite.
 Love to design User Interfaces using AdobeXD and Figma .
