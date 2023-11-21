@@ -1,31 +1,29 @@
-## 🔭 Full Stack Software Engineer
+## 🔭 Full Stack Software Engineer | Entrepreneur at [Selefe.com](https://selefe.com)
 
 `😄 Md Omer Arafat`
 `🌱 Dhaka, Bangladesh`
 
 <a href="https://www.linkedin.com/in/arafatomer66/" target="_blank"><img  src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/>`LinkedIn`</a> | <a href="mailto:arafatomer66@gmail.com">`arafatomer66@gmail.com`</a> | <a href="http://omerarafat.com">`http://omerarafat.com`</a>
 
-### Hello World 👋
+### Hello World! 👋
 
-For almost 4.5 years working in software industry.Expertise in Js Technologies like Angular, React, Ionic, NodeJs/Express , Flutter .
-Worked on PHP Frameworks i.e Laravel and Wordpress.
-Nodejs , Flutter and Angular are most favourite.
-Love to design User Interfaces using AdobeXD and Figma .
-Also enjoy doing Local Seo and Digital Marketing .
-Looking for new opportunities,learning new skills and polishing current ones.
+For almost 4.5 years, I've been deeply involved in the software industry, specializing in Js Technologies like Angular, React, Ionic, NodeJs/Express, and Flutter. Additionally, I've worked on PHP Frameworks like Laravel and Wordpress. Among these, Nodejs, Flutter, and Angular are my favorites.
 
-## Key skills
+### Entrepreneurship at [Selefe.com](https://selefe.com)
 
-⚡ Html5, CSS3, JavaScript, TypeScript , Angular, Ionic , Flutter
+I'm also an entrepreneur at [Selefe.com](https://selefe.com), a Bangladeshi Group Buying Platform. Our platform facilitates users to buy together and save together with the fastest delivery. We connect farmers directly with consumers, making it a more interactive and engaging platform, fostering a direct connection between producers and consumers.
 
-⚡ Node, Express / Laravel / MSSQL / MongoDB , Docker
+## Key Skills
 
-⚡ Local SEO Expert , Digital Marketing Specialist
+⚡ Html5, CSS3, JavaScript, TypeScript, Angular, Ionic, Flutter
 
- I’m currently learning Advance NodeJs with Core level system design Concepts. Also how to create multiple micro service and communication between them.
- Exploring Flutter's most advance state management, RiverPod. I also started problem solving in Leetcode, it's never too late , 
-   https://leetcode.com/arafatomer66/
+⚡ Node, Express / Laravel / MSSQL / MongoDB, Docker
 
+⚡ Local SEO Expert, Digital Marketing Specialist
+
+I’m currently learning Advanced NodeJs with Core-level system design concepts. I'm also diving into Flutter's most advanced state management, RiverPod, and honing my problem-solving skills on Leetcode. It's never too late to learn!
+
+Feel free to ask me about anything related to tech or entrepreneurship!
 
 
 <!-- ### Languages and Tools:
