@@ -23,6 +23,9 @@ I'm also an entrepreneur at [Selefe.com](https://selefe.com), a Bangladeshi Grou
 
 ⚡ IAM Engineering with One Identity and SailPoint
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
+
 
 I’m currently learning Advanced NodeJs with Core-level system design concepts. I'm also diving into Flutter's most advanced state management, RiverPod, and honing my problem-solving skills on Leetcode. It's never too late to learn!
 
