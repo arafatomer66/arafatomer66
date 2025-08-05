@@ -1,51 +1,65 @@
-## 🔭 Full Stack Software Engineer | Entrepreneur at [Selefe.com](https://selefe.com)
+# 🔭 Full Stack Software Engineer | Entrepreneur @ [Sharedealnow.com](https://Sharedealnow.com)
 
-`😄 Md Omer Arafat`
+`😄 Md Omer Arafat`  
 `🌱 Dhaka, Bangladesh`
 
-<a href="https://www.linkedin.com/in/arafatomer66/" target="_blank"><img  src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/>`LinkedIn`</a> | <a href="mailto:arafatomer66@gmail.com">`arafatomer66@gmail.com`</a> | <a href="http://omerarafat.com">`http://omerarafat.com`</a>
+<a href="https://www.linkedin.com/in/arafatomer66/" target="_blank">
+  <img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/> `LinkedIn`
+</a> | <a href="mailto:arafatomer66@gmail.com">`arafatomer66@gmail.com`</a> | <a href="http://omerarafat.com">`omerarafat.com`</a>
 
-### Hello World! 👋
+---
 
-For almost 5 years, I've been deeply involved in the software industry, specializing in Js Technologies like Angular, React, Ionic, NodeJs/Express, and Flutter. Additionally, I've worked on PHP Frameworks like Laravel and Wordpress. Among these, Nodejs, Flutter, and Angular are my favorites. Also working as IAM specialist (sailpoint, oneidentity). 
+## 👋 Hello World!  
 
-### Entrepreneurship at [Selefe.com](https://selefe.com)
+I’m **Md Omer Arafat**, a passionate **Full Stack Software Engineer** with almost **5 years of industry experience** in building robust, scalable applications.  
 
-I'm also an entrepreneur at [Selefe.com](https://selefe.com), a Bangladeshi Group Buying Platform. Our platform facilitates users to buy together and save together with the fastest delivery. We connect farmers directly with consumers, making it a more interactive and engaging platform, fostering a direct connection between producers and consumers.
+I specialize in **JavaScript Technologies** (Angular, React, Ionic, Node.js/Express, Flutter) and **PHP Frameworks** (Laravel, WordPress). My favorites? **Node.js, Flutter, and Angular.**  
 
-## Key Skills
+I also work as an **Identity and Access Management (IAM) Specialist**, with expertise in:  
+- **SailPoint IdentityIQ**  
+- **One Identity Manager**  
+- **Access Governance & Automation**
 
-⚡ Html5, CSS3, JavaScript, TypeScript, Angular, Ionic, Flutter
+---
 
-⚡ Node, Express / Laravel / MSSQL / MongoDB, Docker
+## 🚀 Entrepreneurship at [Sharedealnow.com](https://sharedealnow.com)
 
-⚡ Local SEO Expert, Digital Marketing Specialist
+As the founder of **Sharedealnow.com**, a Bangladeshi **Group Buying Platform**, I help connect **farmers directly with consumers**.  
+✅ **Buy Together, Save Together** with fastest delivery  
+✅ **Interactive & engaging** — fostering direct connections between producers & consumers  
 
-⚡ IAM Engineering with One Identity and SailPoint
+---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
+## ⚡ Key Skills
 
+- **Frontend:** HTML5, CSS3, JavaScript, TypeScript, Angular, Ionic, Flutter, React, Next.js, Tailwind  
+- **Backend:** Node.js, Express, Laravel, PHP  
+- **Databases:** MySQL, MSSQL, MongoDB, Firebase  
+- **DevOps & Tools:** Docker, Git, GitHub, Postman, Jest  
+- **IAM Specialist:** SailPoint, **One Identity Manager**  
+- **Others:** Local SEO Expert, Digital Marketing
 
+---
 
-I’m currently learning Advanced NodeJs with Core-level system design concepts. I'm also diving into Flutter's most advanced state management, RiverPod, and honing my problem-solving skills on Leetcode. It's never too late to learn!
+## 🛠 Languages & Tools  
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,angular,ionic,flutter,nodejs,express,mongodb,mysql,firebase,php,laravel,docker,git,github,vscode,jest,postman,stackoverflow&perline=14)](#)
 
-Feel free to ask me about anything related to tech or entrepreneurship!
+---
 
+## 📚 Currently Learning
+- **Advanced Node.js** (Core-level System Design & Scalability)  
+- **Flutter RiverPod** (Advanced State Management)  
+- **Problem-Solving & DSA** (LeetCode Challenges)
 
-💬 Feel free to ask me about anything related to tech ...
+---
 
-<!--
-**arafatomer66/arafatomer66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💬 Let’s Connect!
+Feel free to reach out for:  
+- 🚀 **Tech Discussions**  
+- 🤝 **Collaboration on Projects**  
+- 🌱 **Entrepreneurship & Startups**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> _"It’s never too late to learn, build, and innovate."_  
+
