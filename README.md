@@ -88,51 +88,83 @@ mantra:      "Ship. Listen. Iterate. Repeat."
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/arafatomer66/Gonok-Accounting">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=arafatomer66&repo=Gonok-Accounting&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-      </a>
+      <h3>📒 <a href="https://github.com/arafatomer66/Gonok-Accounting">গণক · Gonok Accounting</a></h3>
+      <p>Offline-first accounting system for Bangladeshi small businesses.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Angular%2021-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PouchDB-E4540C?style=flat-square&logo=pouchdb&logoColor=white"/>
+        <img src="https://img.shields.io/github/stars/arafatomer66/Gonok-Accounting?style=flat-square&color=0A66C2&label=★"/>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/arafatomer66/Porichoy">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=arafatomer66&repo=Porichoy&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/arafatomer66/garments-erp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=arafatomer66&repo=garments-erp&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/arafatomer66/hive-hr">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=arafatomer66&repo=hive-hr&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-      </a>
+      <h3>🛡️ <a href="https://github.com/arafatomer66/Porichoy">পরিচয় · Porichoy</a></h3>
+      <p>Lightweight IAM + Identity Governance platform inspired by SailPoint & Ping Identity.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/IAM-011E41?style=flat-square&logo=keycloak&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Governance-1F2937?style=flat-square"/>
+        <img src="https://img.shields.io/github/stars/arafatomer66/Porichoy?style=flat-square&color=0A66C2&label=★"/>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/arafatomer66/cookshare">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=arafatomer66&repo=cookshare&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-      </a>
+      <h3>🏭 <a href="https://github.com/arafatomer66/garments-erp">Garments ERP SaaS</a></h3>
+      <p>Multi-tenant ERP for Bangladesh's RMG sector — production, inventory, payroll.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Angular%2020-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NestJS%2011-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Postgres%2016-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white"/>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/arafatomer66/property-proof">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=arafatomer66&repo=property-proof&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-      </a>
+      <h3>👥 <a href="https://github.com/arafatomer66/hive-hr">Hive · Modern HR SaaS</a></h3>
+      <p>HR platform with 4 microservices, premium UI, deployed on AWS.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Angular%2020-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍳 <a href="https://github.com/arafatomer66/cookshare">CookShare</a></h3>
+      <p>Social-first app for home cooks — live, map-based feed of dishes for neighbors.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter%203.38-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Laravel%2012-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⛓️ <a href="https://github.com/arafatomer66/property-proof">PropertyProof</a></h3>
+      <p>On-chain document registry — Solidity contracts + Angular dApp with embedded wallet.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logoColor=black"/>
+        <img src="https://img.shields.io/badge/ethers.js%20v6-2535A0?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Angular%2020-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+      </p>
     </td>
   </tr>
 </table>
+
+<p align="center"><sub>→ <a href="https://github.com/arafatomer66?tab=repositories"><b>Browse all repositories</b></a></sub></p>
 
 <!-- STATS ────────────────────────────────────────────────────── -->
 ## ◆ GitHub Pulse
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=arafatomer66&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="175" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=arafatomer66&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&rank_icon=github"/>
 <img height="175" src="https://github-readme-streak-stats.herokuapp.com?user=arafatomer66&theme=tokyonight&hide_border=true&background=0D1117"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafatomer66&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=10&hide=hbs,scss,html"/>
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=arafatomer66&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=10&hide=hbs,scss,html"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arafatomer66&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true&line=58A6FF&color=58A6FF" width="100%"/>
 
