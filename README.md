@@ -9,7 +9,7 @@
 <a href="https://x.com/arafatomer66"><img src="assets/btn-x.svg" height="46" alt="X"/></a>
 </p>
 
-I'm a senior software engineer with 8+ years across the stack, from enterprise **identity and access management** to consumer marketplaces and multi-tenant SaaS. I've delivered client projects for teams in **Australia, Germany, the USA** and several other countries, working remotely from Dhaka. Today I work on Angular, Node.js, AWS and identity governance at **Allianz Australia**, and after hours I run **[ShareDeal](https://sharedealnow.com)**.
+I'm a senior software engineer with 8+ years across the stack, from enterprise **identity and access management** to consumer marketplaces and multi-tenant SaaS. I've delivered client projects for teams in **Australia, Germany, the USA** and several other countries, working remotely from Dhaka. Today I work on Angular, Node.js, AWS, Security and identity governance at **Allianz Australia**, and after hours I run **[ShareDeal](https://sharedealnow.com)**.
 
 <br/>
 
